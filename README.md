@@ -1,1 +1,1 @@
-# enigma2-plugin-extensions-autokey
+# enigma2-plugin-extensions-bissfeedautokey
